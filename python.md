@@ -7,3 +7,4 @@ tags: [lang]
 
 [[[z:zettels?tag=lang/python]]]
 
+[[z:zettels?tag=lang/python&tag=lib/**]]
