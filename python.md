@@ -5,5 +5,5 @@ tags: [lang]
 
 # Python
 
-[[[z:zettels?tag=languages/python]]]
+[[[z:zettels?tag=lang/python]]]
 
